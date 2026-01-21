@@ -1,5 +1,7 @@
 {
   "issued_at": "2026-01-21T10:00:00Z",
-  "revoked_licenses": [LIC-2df9a1372006],
-  "signature": "oA8LIbXhyCxqQsutOWvXwgFqXnketpatdZEQrIXUll0LK5W2QV5oQLAi87G/Z3APMqmRgAUfF3BZ3tIMpdB1CA=="
+  "revoked_licenses": [
+    "LIC-2df9a1372006"
+  ],
+  "signature": "+/ZQGAEcse7QXT6ZLs8CIkqlUz4Oiex6RzlLiYWSi5JS/eUAfUej74KkF6WSrAQWpYSqd3fjySbiwGXD/gHGCQ=="
 }
